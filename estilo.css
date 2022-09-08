@@ -1,0 +1,69 @@
+*{
+    box-sizing:border-box;
+}
+html,body{
+    margin: 0px;
+    padding:0px;
+
+}
+header{
+    background-color: rgb(95, 5, 5);
+    padding: 8px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.logo{
+    width: 120px;
+}
+.menu li{
+    display: inline;
+    margin: 0 8px;
+}
+.sim{
+    background-color: rgb(190, 69, 116);
+    padding: 10px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline;
+    
+
+}
+h1{
+
+    font-size: 300%;
+    font: arial black;
+}
+
+.fig1{
+    width: 350px;
+    height: 253px;
+}
+
+.fig2{
+    width: 350px;
+    height: 253px;
+}
+
+.fig3{
+    width: 350px;
+    height: 253px;
+}
+
+.bandeiras{
+    width: 350x;
+    height: 200px;
+}
+
+.bandeiras2{
+    width: 300px;
+    height: 150px;
+}
+
+.bandeiras3{
+    width: 350px;
+    height: 253px;
+}
